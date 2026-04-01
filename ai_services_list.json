@@ -1,5 +1,5 @@
 {
-  "version": "5.2.2",
+  "version": "5.2.2.cn",
   "ai_services": [
     [
       "ChatGPT",
@@ -44,10 +44,17 @@
       "00ACC1"
     ],
     [
+      "Deepseek (中国镜像)",
+      "https://deepseek.cn/",
+      "Free",
+      "Not for privacy",
+      "00ACC1"
+    ],
+    [
       "Gemini",
       "https://gemini.google.com/",
       "Freemium",
-      "Not for privacy",
+"Not for privacy",
       "4285F4"
     ],
     [
@@ -79,6 +86,13 @@
       "6D00"
     ],
     [
+      "Qwen (阿里云)",
+      "https://qianwen.aliyun.com/",
+      "Free",
+      "Not for privacy",
+      "6D00"
+    ],
+    [
       "Mistral",
       "https://chat.mistral.ai/",
       "Freemium",
@@ -95,7 +109,7 @@
     [
       "Copilot",
       "https://copilot.microsoft.com/",
-      "Freemium",
+"Freemium",
       "Not for privacy",
       "0078D4"
     ],
@@ -151,7 +165,7 @@
     [
       "Khoj",
       "https://app.khoj.dev/?v=app",
-      "Freemium",
+"Freemium",
       "Privacy focused",
       "FF9800"
     ],
@@ -207,7 +221,7 @@
     [
       "YouAI",
       "https://you.com/?tbm=youchat&fromSearchBar=true&chatMode=default",
-      "Freemium",
+"Freemium",
       "Privacy friendly",
       "9E9E9E"
     ],
@@ -247,6 +261,13 @@
       "B0E0F0"
     ],
     [
+      "Kimi (中国优化)",
+      "https://kimi.moonshot.cn/",
+      "Freemium",
+      "Not for privacy",
+      "B0E0F0"
+    ],
+    [
       "Indus",
       "https://indus.sarvam.ai/",
       "Free",
@@ -256,7 +277,7 @@
     [
       "Poe",
       "https://poe.com/",
-      "Freemium",
+"Freemium",
       "Not for privacy",
       "413FA9"
     ],
@@ -312,13 +333,20 @@
     [
       "Thaura",
       "https://thaura.ai/",
-      "Freemium",
+"Freemium",
       "Privacy focused",
       "9E9E9E"
     ],
     [
       "Doubao",
       "https://www.doubao.com/chat/",
+      "Free",
+      "Not for privacy",
+      "009688"
+    ],
+    [
+      "Doubao (火山引擎)",
+      "https://www.volcengine.com/product/doubao",
       "Free",
       "Not for privacy",
       "009688"
@@ -340,6 +368,13 @@
     [
       "Ernie",
       "https://ernie.baidu.com/",
+      "Free",
+      "Not for privacy",
+      "E56D00"
+    ],
+    [
+      "Ernie (百度智能云)",
+      "https://yiyan.baidu.com/",
       "Free",
       "Not for privacy",
       "E56D00"
